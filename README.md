@@ -1,4 +1,4 @@
-Guys i found this research of Sir  Brian J. Johnson and i was like Oh boy we have to do this 
+Guys i found this research from Sir  Brian J. Johnson and i was like Oh boy we have to do this 
 
 # Mosquito Love to Death: Audio Tones for Attracting Mosquitoes
 

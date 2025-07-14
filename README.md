@@ -1,3 +1,13 @@
+Guys i found this research of Sir  Brian J. Johnson and i was like Oh boy we have to do this 
+
+# Mosquito Love to Death: Audio Tones for Attracting Mosquitoes
+
+well apparently this is a thing that only males are attracted 😂🤣females need not waste their energy oh boy indeed a  classical problem 
+
+
+
+
+
 🦟 Mosquito Frequency Experiment (Python)
 This project plays audio tones at specific frequencies (e.g., 550–600 Hz) that are known to potentially attract female mosquitoes, particularly during their mating phase. The tones mimic the wingbeat frequencies of male mosquitoes.
 
